@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">UIUXPractical3NavDrawer</string>
+    <string name="title_top">Top Level Fragment</string>
+
+    <string-array name="PageThree">
+        <item>Java</item>
+        <item>Swift</item>
+        <item>C#</item>
+        <item>SQL</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Development</item>
+        <item>Development</item>
+        <item>Programming Languages</item>
+    </string-array>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="tick">Accessibility</string>
+
+    <string name="TopLevel1">Home</string>
+    <string name="TopLevel2">Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.\n Software development is a process of writing and maintaining the source code, but in a broader sense, it includes all that is involved between the conception of the desired software through to the final manifestation of the software, sometimes in a planned and structured process.\n Therefore, software development may include research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.</string>
+
+    <string name="P11">Development</string>
+    <string name="P12">A software development process (also known as a software development methodology, model, or life cycle) is a framework that is used to structure, plan, and control the process of developing information systems. A wide variety of such frameworks has evolved over the years, each with its own recognized strengths and weaknesses.\n There are several different approaches to software development: some take a more structured, engineering-based approach to develop business solutions, whereas others may take a more incremental approach, where software evolves as it is developed piece-by-piece. One system development methodology is not necessarily suitable for use by all projects.\n Each of the available methodologies is best suited to specific kinds of projects, based on various technical, organizational, project and team considerations.</string>
+
+    <string name="P21">Development</string>
+    <string name="P22">Most methodologies share some combination of the following stages of software development:\n
+ - Analyzing the problem \n
+ - Market research \n
+ - Gathering requirements for the proposed business solution \n
+ - Devising a plan or design for the software-based solution \n
+ - Implementation (coding) of the software \n
+ - Testing the software \n
+ - Deployment \n
+ - Maintenance and bug fixing
+    </string>
+</resources>
